@@ -1,4 +1,4 @@
-#import "@preview/fletcher:0.5.8": node, shapes
+#import "@preview/fletcher:0.6.0": node, shapes
 
 // Node primitives and node-like decorations.
 #let _as-offset(x, y) = if type(y) == array {

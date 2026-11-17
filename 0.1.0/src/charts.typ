@@ -1,4 +1,4 @@
-#import "@preview/fletcher:0.5.8": diagram
+#import "@preview/fletcher:0.6.0": diagram
 #import "edges.typ": *
 #import "nodes.typ": *
 #import "utils.typ": *

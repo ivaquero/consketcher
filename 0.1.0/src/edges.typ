@@ -1,4 +1,4 @@
-#import "@preview/fletcher:0.5.8": edge
+#import "@preview/fletcher:0.6.0": edge
 
 // Edge primitives and routing helpers.
 #let edge-label(body, size: 0.6em, ..options) = if body == none {
